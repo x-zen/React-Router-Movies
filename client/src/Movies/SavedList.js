@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import {Link} from 'react-router-dom';
 
 export default class SavedList extends Component {
+// eslint-disable-next-line
   constructor(props) {
     super(props);
   }
